@@ -12,7 +12,7 @@ const Upcoming = () => {
         <>
         <Container maxW="container.lg" mt={20}>
             <Box display="Flex" justifyContent="space-between">
-                <Heading size="xl" Size="lg">Upcoming online events</Heading>
+                <Heading size="lg">Upcoming online events</Heading>
                 <Button colorScheme='teal' variant='link'>Explore more events</Button>
             </Box>
 

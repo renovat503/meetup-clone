@@ -10,7 +10,7 @@ import { TiSocialInstagram } from "react-icons/ti";
 const Footer = () => {
     return ( 
         <>
-        <Container display="flex" justifyContent="center" bg="gray.800" maxW="container.xxl"p="2">
+        <Container mt="6" display="flex" justifyContent="center" bg="gray.800" maxW="container.xxl"p="2">
             <Box w="1000px">
                 <Box maxW="lg"display="flex" mt="2">
                     <Box fontWeight="500"mt="2"color="white">Create your own Meetup group.</Box>
